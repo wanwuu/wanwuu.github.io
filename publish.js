@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'qmylctfe.club',
+	'udaxzvma.top',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
