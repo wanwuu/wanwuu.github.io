@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'udaxzvma.top',
+	'dzjeixpa.org',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
