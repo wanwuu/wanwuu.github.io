@@ -33,14 +33,14 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '91nantong@gmail.com'
+    'wanwushequ@gmail.com'
 ];
 
 var urls=[
 	'ihpsaens.com',
 ];
                                                                                                                   
-var JumpPage="https://91nt.com";
+var JumpPage="https://wanwuu.com";
 
 var newestUrls = [];
 
@@ -51,9 +51,10 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://91nantong.github.io',
+	'https://wanwuu.pages.dev',
 ];
 var foreverUrls = [
-    'https://91nt.net',JumpPage
+    'https://wan-wu.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
