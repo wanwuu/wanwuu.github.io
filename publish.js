@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[
+	'dyxobic.cc/', 
 	
-	urls.push(".dyxobic.cc") ;
 
-                                                                                                                  
+];                                                                                                                  
+
 var JumpPage="https://dyxemlv.cc";
 
 var newestUrls = [];
-
 
 for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +'.' + urls[randomNum(0,urls.length-1)]);
@@ -55,7 +55,7 @@ var otherUrls = [
 	'https://wanwuu.pages.dev',
 ];
 var foreverUrls = [
-    'https://dyxemlv.cc',JumpPage
+    'https://wanwuu.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
