@@ -40,7 +40,7 @@ var urls=[
 	'dyxobic.cc',
 ];
                                                                                                                   
-var JumpPage="https://dyxemlv.cc";
+var JumpPage="https://dyxobic.cc";
 
 var newestUrls = [];
 
