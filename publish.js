@@ -38,7 +38,7 @@ var emails = [
 
 var urls=[
 	
-	urls.push(".dyxobic.cc") ;'
+	(".dyxobic.cc") ;'
 
                                                                                                                   
 var JumpPage="https://dyxemlv.cc";
