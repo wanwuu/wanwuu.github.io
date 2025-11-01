@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'dyxemlv.cc',
+	'dyxobic.cc',
 ];
                                                                                                                   
 var JumpPage="https://wanwuu.com";
