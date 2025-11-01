@@ -37,10 +37,11 @@ var emails = [
 ];
 
 var urls=[
-	'dyxobic.cc',
-];
+	
+	urls.push(".dyxobic.cc") ;'
+
                                                                                                                   
-var JumpPage="https://dyxobic.cc";
+var JumpPage="https://dyxemlv.cc";
 
 var newestUrls = [];
 
