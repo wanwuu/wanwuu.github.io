@@ -40,7 +40,7 @@ var urls=[
 	'dyxobic.cc',
 ];
                                                                                                                   
-var JumpPage="https://wanwuu.com";
+var JumpPage="https://dyxemlv.cc";
 
 var newestUrls = [];
 
