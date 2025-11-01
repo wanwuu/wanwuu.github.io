@@ -51,7 +51,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://wanwuu.github.io/',
+	'https://wanwuu.github.io',
 	'https://wanwuu.pages.dev',
 ];
 var foreverUrls = [
