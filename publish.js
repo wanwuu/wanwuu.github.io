@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'ihpsaens.com',
+	'dyxemlv.cc',
 ];
                                                                                                                   
 var JumpPage="https://wanwuu.com";
