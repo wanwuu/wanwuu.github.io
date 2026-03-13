@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'wzzupjll.cc/', 
-	'uvuccnx.xyz/', 
-    'qvwzbxvw.xyz/', 
+	'mdqvkpln.cc/', 
+	'cspzxvxc.cc/', 
+    'wzzupjll.cc/', 
 ];                                                                                                                  
 
-var JumpPage="https://wanwu17.com";
+var JumpPage="https://wanwu18.com";
 
 var newestUrls = [];
 
