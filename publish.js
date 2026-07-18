@@ -42,7 +42,7 @@ var urls=[
     'znpbqfar.cc/', 
 ];                                                                                                                  
 
-var JumpPage="https://wanwu39.com";
+var JumpPage="https://wanwu41.com";
 
 var newestUrls = [];
 
