@@ -55,7 +55,12 @@ var otherUrls = [
 	'https://wanwuu.github.io/',
 ];
 var foreverUrls = [
-    'https://wanwuu.com',JumpPage
+    'https://wanwusm.net',
+	'https://wanwusq.net',
+	'https://smwanwu.net',
+	'https://wanwusm.org',
+	'https://wanwusm.io',
+	'https://wanwuu.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
