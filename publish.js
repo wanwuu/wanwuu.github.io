@@ -42,7 +42,7 @@ var urls=[
     'gdkqtqqz.cc/', 
 ];                                                                                                                  
 
-var JumpPage="https://wanwu42.com";
+var JumpPage="https://wanwu43.com";
 
 var newestUrls = [];
 
