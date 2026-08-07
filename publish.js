@@ -38,11 +38,11 @@ var emails = [
 
 var urls=[
 	'bnmdquasi.cc/', 
-	'aszdwuvur.cc/', 
-    'lxrhcmpyz.cc/', 
+	'bnmdquasi.cc/', 
+    'aszdwuvur.cc/', 
 ];                                                                                                                  
 
-var JumpPage="https://wanwu44.com";
+var JumpPage="https://wanwu45.com";
 
 var newestUrls = [];
 
