@@ -38,11 +38,11 @@ var emails = [
 
 var urls=[
 	'daqbqrri.cc/', 
-	'skznbyhtp.cc/', 
+	'pnbjecbuh.cc/', 
     'jlpqgaxl.cc/', 
 ];                                                                                                                  
 
-var JumpPage="https://wanwu50.com";
+var JumpPage="https://wanwu52.com";
 
 var newestUrls = [];
 
